@@ -8,7 +8,6 @@ UIOutlineLabel *label = [[UIOutlineLabel alloc] init];
 
 // configuration of UILabel
 label.frame = CGRectMake(0, 0, 100, 50);
-
 label.textColor = [UIColor whiteColor];
 label.font = [UIFont boldSystemFontOfSize:30];
 label.text = @"Hello world";
